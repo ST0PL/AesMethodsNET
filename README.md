@@ -1,4 +1,4 @@
-![Created with .NET Framework 4.8](https://img.shields.io/badge/Created%20with-C%23%20.NET%20Framework%204.8-purple)
+![Created with C# .NET Framework 4.8](https://img.shields.io/badge/Created%20with-C%23%20.NET%20Framework%204.8-purple)
 
 # AesMethodsNET
 
