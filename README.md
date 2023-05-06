@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Created with C# .NET Framework 4.8](https://img.shields.io/badge/Created%20with-C%23%20.NET%20Framework%204.8-purple)
 
 # AesMethodsNET
@@ -44,3 +45,6 @@ byte[] key = encryptionParams.Key;
 byte[] iv = encryptionParams.IV;
 
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
