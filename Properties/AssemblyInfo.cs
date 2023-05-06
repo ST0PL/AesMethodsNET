@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
 [assembly: AssemblyTitle("AesMethodsNET")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("AesMethodsNET is a .NET library for symmetric encryption and decryption using the Advanced Encryption Standard (AES) algorithm. It provides easy-to-use methods for encrypting and decrypting byte arrays, as well as generating encryption keys and initialization vectors. ")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ST0PL")]
 [assembly: AssemblyProduct("AesMethodsNET")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
